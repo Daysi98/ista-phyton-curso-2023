@@ -1,1 +1,1 @@
-# ista-phyton-curso-2023
+# ista-python-curso-2023

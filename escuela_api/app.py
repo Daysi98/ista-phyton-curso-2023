@@ -32,5 +32,6 @@ def get_totalasistencias():
         return(jsonify({'total_asistencias':total_asistencias}),200)
     else:
         return (jsonify({'error': 'El estudiante o la materia solicitada no existen'}), 404)
+    #El error 404 se utiliza para indicar que un recurso solicitado no existe
 
 
